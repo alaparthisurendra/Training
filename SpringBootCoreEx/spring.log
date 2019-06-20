@@ -1,0 +1,20 @@
+2019-06-18 15:51:39.663  INFO 16180 --- [main] c.e.spring.boot.SpringBootSimpleEx       : Starting SpringBootSimpleEx on RAMLABS-LAP with PID 16180 (D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx\target\classes started by saravana in D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx)
+2019-06-18 15:51:39.674  INFO 16180 --- [main] c.e.spring.boot.SpringBootSimpleEx       : No active profile set, falling back to default profiles: default
+2019-06-18 15:51:40.833  INFO 16180 --- [main] c.e.spring.boot.SpringBootSimpleEx       : Started SpringBootSimpleEx in 2.172 seconds (JVM running for 5.728)
+2019-06-18 15:51:40.836  INFO 16180 --- [main] c.e.spring.boot.SpringBootSimpleEx       : Logging Test
+2019-06-18 15:59:44.820  INFO 17576 --- [main] c.e.spring.boot.SpringBootSimpleEx       : Starting SpringBootSimpleEx on RAMLABS-LAP with PID 17576 (D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx\target\classes started by saravana in D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx)
+2019-06-18 15:59:44.831  INFO 17576 --- [main] c.e.spring.boot.SpringBootSimpleEx       : No active profile set, falling back to default profiles: default
+2019-06-18 15:59:46.796  INFO 17576 --- [main] c.e.spring.boot.SpringBootSimpleEx       : Started SpringBootSimpleEx in 3.53 seconds (JVM running for 7.663)
+2019-06-18 15:59:46.803  INFO 17576 --- [main] c.e.spring.boot.SpringBootSimpleEx       : Logging Test
+2019-06-18 16:35:00.671  INFO 3420 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Starting SpringBootCmdRunnerEx on RAMLABS-LAP with PID 3420 (D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx\target\classes started by saravana in D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx)
+2019-06-18 16:35:00.679  INFO 3420 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : No active profile set, falling back to default profiles: default
+2019-06-18 16:35:01.857  INFO 3420 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Started SpringBootCmdRunnerEx in 2.12 seconds (JVM running for 5.79)
+2019-06-18 16:36:03.167  INFO 18284 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Starting SpringBootCmdRunnerEx on RAMLABS-LAP with PID 18284 (D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx\target\classes started by saravana in D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx)
+2019-06-18 16:36:03.173  INFO 18284 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : No active profile set, falling back to default profiles: default
+2019-06-18 16:36:04.456  INFO 18284 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Started SpringBootCmdRunnerEx in 1.959 seconds (JVM running for 4.819)
+2019-06-18 16:42:44.081  INFO 4772 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Starting SpringBootCmdRunnerEx on RAMLABS-LAP with PID 4772 (D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx\target\classes started by saravana in D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx)
+2019-06-18 16:42:44.092  INFO 4772 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : No active profile set, falling back to default profiles: default
+2019-06-18 16:42:45.435  INFO 4772 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Started SpringBootCmdRunnerEx in 2.659 seconds (JVM running for 6.559)
+2019-06-18 16:43:43.485  INFO 16524 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Starting SpringBootCmdRunnerEx on RAMLABS-LAP with PID 16524 (D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx\target\classes started by saravana in D:\Training\ltts_sboot-microserv-docker-k8s\labs\examples\SpringBootCoreEx)
+2019-06-18 16:43:43.499  INFO 16524 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : No active profile set, falling back to default profiles: default
+2019-06-18 16:43:44.621  INFO 16524 --- [main] c.e.spring.boot.SpringBootCmdRunnerEx    : Started SpringBootCmdRunnerEx in 2.164 seconds (JVM running for 5.618)
